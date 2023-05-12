@@ -13,14 +13,3 @@ export interface Data {
   size: number;
   density: number;
 }
-
-// export interface Column {
-//   id: 'name' | 'code' | 'population' | 'size' | 'density' | any;
-//   label: any;
-//   minWidth: any
-// }
-
-// export interface Data {
-//   id: any;
-//   type: any
-// }
